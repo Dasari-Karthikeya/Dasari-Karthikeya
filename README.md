@@ -1,6 +1,4 @@
-<div align="center">
-  
-# D. Karthikeya
+
 
 <div align="center">
 
